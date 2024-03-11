@@ -1,0 +1,6 @@
+MainPackage=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\bin\x64\Debug\Application_Packaging_1.0.0.0_x64_Debug.appx
+SymbolPackage=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\obj\x64\Debug\Symbols\Application_Packaging_1.0.0.0_x64_Debug.appxsym
+ResourcePack=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\bin\x64\Debug\Application_Packaging_1.0.0.0_scale-100.appx
+ResourcePack=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\bin\x64\Debug\Application_Packaging_1.0.0.0_scale-125.appx
+ResourcePack=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\bin\x64\Debug\Application_Packaging_1.0.0.0_scale-150.appx
+ResourcePack=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\bin\x64\Debug\Application_Packaging_1.0.0.0_scale-400.appx

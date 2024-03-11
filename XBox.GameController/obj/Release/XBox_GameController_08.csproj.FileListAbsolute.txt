@@ -1,0 +1,2 @@
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Release\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Release\XBox_GameController_08.csproj.CoreCompileInputs.cache

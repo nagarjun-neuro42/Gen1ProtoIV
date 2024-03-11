@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6k3tvT1yKVy2NufeQ3QiC3Bt3LVuWG9TSiUzMRm2nCtwqXxvg6nxU9uC9oJhl03qjr1h3yCOhgmWX3QiW4pWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neuro42_Robot\\Documents\\n42_Robot_PROTO-III_SW\\n42_Robot_PROTO_III_V03\\3D_Transform\\3D_Transform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neuro42_Robot\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

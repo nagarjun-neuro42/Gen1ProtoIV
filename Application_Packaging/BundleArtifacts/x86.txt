@@ -1,0 +1,2 @@
+MainPackage=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\bin\x86\Debug\Application_Packaging_1.0.0.0_x86_Debug.appx
+SymbolPackage=D:\GitRepo\SF17_CalibrationStation2020_RFID_Camera_Export_Import\Application_Packaging\obj\x86\Debug\Symbols\Application_Packaging_1.0.0.0_x86_Debug.appxsym

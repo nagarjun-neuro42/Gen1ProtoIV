@@ -1,0 +1,9 @@
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\bin\Debug\SharpDX.xml
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\bin\Debug\SharpDX.XInput.xml
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\obj\Debug\XBox_GameController_07.csproj.AssemblyReference.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\obj\Debug\XBox_GameController_07.csproj.CoreCompileInputs.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\obj\Debug\XBox_GameController_07.csproj.CopyComplete
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V07\XBox.GameController\obj\Debug\XBox.GameController.pdb

@@ -1,0 +1,63 @@
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V08\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Documents\n42_Robot_PROTO-III_SW\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\lilys\Desktop\n42_Robot_PROTO_III_V09_Working_Temp\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Neuro42\Gen-I Proto-IV\Software\Aug 10 2023 - Wenjing Deliverables\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Neuro42\Gen-I_Proto-IV\Software\Aug_10_2023\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Aug_10_2023\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\hrhos\Documents\Aug_20_2023\XBox.GameController\obj\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\bin\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\bin\Debug\XBox.GameController.pdb
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.AssemblyReference.cache
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CoreCompileInputs.cache
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\obj\Debug\XBox_GameController_08.csproj.CopyComplete
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\obj\Debug\XBox.GameController.dll
+C:\Users\Neuro42_Robot\Downloads\Aug_20_2023\Aug_20_2023\XBox.GameController\obj\Debug\XBox.GameController.pdb
